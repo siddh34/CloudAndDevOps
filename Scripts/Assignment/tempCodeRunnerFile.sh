@@ -1,0 +1,1 @@
+sudo mysqldump  -siddharth  --no-tablespaces test  >/home/db_backup/${db_backup}
